@@ -5,6 +5,6 @@ class Simple
 {
     public function greet(String $sName)
     {
-        return 'Hi ' . $sName . '! How are you doing today?';
+        return 'Hi hello ' . $sName . '! How are you doing today?';
     }
 }
