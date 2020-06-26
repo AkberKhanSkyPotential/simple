@@ -1,15 +1,6 @@
 {
     "name": "akberkhanskypotential/simple",
     "description": "simple package",
-    "type": "MIT",
-    "license": "MIT",
-    "minimum-stability": "dev",
-    "require": {}
-}
-
-{
-    "name": "akberkhanskypotential/simple",
-    "description": "simple package",
     "type": "project",
     "license": "MIT",
     "authors": [
