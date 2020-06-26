@@ -1,0 +1,28 @@
+{
+    "name": "akberkhanskypotential/simple",
+    "description": "simple package",
+    "type": "MIT",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
+
+{
+    "name": "akberkhanskypotential/simple",
+    "description": "simple package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Akber Khan",
+            "email": "akber.skypotential@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Akberkhanskypotential\\Simple\\": "src/"
+        }
+    },
+    "require": {}
+}
